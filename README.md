@@ -11,7 +11,7 @@ Credit to [Rem Zolotykh's](https://twitter.com/remzolotykh)
 Clone Repo
 ---
 ```
-git clone https://github.com/kerrison24/react-starter-type2.git
+git clone https://github.com/kerrison24/react-starter-app-two.git
 ```
 
 
