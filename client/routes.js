@@ -3,7 +3,7 @@ import { Route, IndexRoute } from 'react-router'
 
 import App from './components/App'
 import Greetings from './components/Greetings'
-import MyPage from './components/page/MyPage'
+import MyPage from './components/pages/MyPage'
 
 export default (
   <Route path="/" component={App}>

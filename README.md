@@ -1,6 +1,6 @@
 # React Starter App Type 2
 A boilerplate React app.
-Set up with expressjs, babel, webpack, react-router, nodemon and hot-reloading.
+Set up with expressjs, babel, webpack, react-router, nodemon, hot-reloading and scss.
 
 Credit to [Rem Zolotykh's](https://twitter.com/remzolotykh)
 [Youtube tutorial](https://www.youtube.com/playlist?list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY)
@@ -27,5 +27,5 @@ Usage
 ---
 Start the development server
 ```
-npm run server
+npm start
 ```

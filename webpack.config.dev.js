@@ -22,6 +22,11 @@ export default {
         test: /\.js$/,
         include: path.join(__dirname, 'client'),
         loaders: [ 'babel' ]
+      },
+      {
+        test: /\.s?css$/,
+        include: [ path.join(__dirname, 'client') ],
+        loaders: [ 'style', 'css', 'sass']
       }
     ]
   },
