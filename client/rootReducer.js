@@ -1,7 +1,7 @@
-import { combinedReducers } from 'redux'
+import { combineReducers } from 'redux'
 
 import dummyReducer from './reducers/dummyReducer'
 
-export defaut combinedReducers({
+export default combineReducers({
   dummyReducer
 })
