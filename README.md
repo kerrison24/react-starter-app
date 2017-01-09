@@ -1,4 +1,4 @@
-# React Starter App Type 2
+# React Starter App
 A boilerplate React app.
 Set up with expressjs, babel, webpack, react-router, redux, nodemon, hot-reloading and scss.
 
